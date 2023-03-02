@@ -1,0 +1,19 @@
+
+state={
+	id=7
+	name="Ankara - Bâlâ"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1361 5395 6769 15697
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+}

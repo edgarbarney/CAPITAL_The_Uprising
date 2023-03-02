@@ -1,0 +1,6 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+18662;19023;sea;19075;-1;-1;-1;-1;WHITE_SEA_BALTIC_CANAL_1;Piss
+19023;17606;sea;19092;-1;-1;-1;-1;WHITE_SEA_BALTIC_CANAL_2;Piss
+18120;18353;sea;19147;-1;-1;-1;-1;WHITE_SEA_BALTIC_CANAL_3;Piss
+17712;18599;sea;5403;-1;-1;-1;-1;WHITE_SEA_BALTIC_CANAL_4;Piss
+-1;-1;;-1;-1;-1;-1;-1;-1

@@ -1,0 +1,157 @@
+
+adjacency_rule
+{
+	name = "WHITE_SEA_BALTIC_CANAL_1"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 904 8167 }
+		
+	icon = 19075
+	offset = { 0 0 0 }
+}
+
+adjacency_rule
+{
+	name = "WHITE_SEA_BALTIC_CANAL_2"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 7029 10066 }
+
+		
+	icon = 19092
+	offset = { 0 0 0 }
+}
+
+adjacency_rule
+{
+	name = "WHITE_SEA_BALTIC_CANAL_3"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 5338 4373 9883 }
+		
+	icon = 19147
+	offset = { 0 0 0 }
+}
+
+adjacency_rule
+{
+	name = "WHITE_SEA_BALTIC_CANAL_4"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 5403 }
+		
+	icon = 5403
+	offset = { 0 0 0 }
+}

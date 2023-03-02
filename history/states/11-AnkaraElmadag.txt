@@ -1,0 +1,19 @@
+
+state={
+	id=11
+	name="Ankara - Elmadag"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		8673
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+}
